@@ -15,14 +15,14 @@
 | 🤖 GPT       | 自建GPT          | [https://chat.xingji.fun/](https://chat.xingji.fun/) |
 | ☁️ Tencent   | 腾讯开发者       | [https://cloud.tencent.com/](https://cloud.tencent.com/) |
 
-![GitHub账户信息统计](https://github-readme-stats.vercel.app/api?username=XingJi-love&show_icons=true&theme=tokyonight)
-
-![GitHub账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=XingJi-love&theme=tokyonight)
-
 ![GitHub 活动统计图](https://github-readme-activity-graph.vercel.app/graph?username=XingJi-love&theme=react-dark)
+
+![GitHub账户信息统计](https://github-readme-stats.vercel.app/api?username=XingJi-love&show_icons=true&theme=tokyonight)                         ![GitHub 连续打卡](https://streak-stats.demolab.com/?user=XingJi-love)
+
+![GitHub账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=XingJi-love&theme=tokyonight)                            ![修仙系列统计卡片](https://github-immortality.vercel.app/api?username=XingJi-love)
 
 ![GitHub 资料奖杯](https://github-profile-trophy.vercel.app/?username=XingJi-love)
 
-![修仙系列统计卡片](https://github-immortality.vercel.app/api?username=XingJi-love)
 
-![GitHub 连续打卡](https://streak-stats.demolab.com/?user=XingJi-love)
+
+
