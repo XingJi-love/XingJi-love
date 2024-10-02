@@ -32,11 +32,15 @@
 - [【JavaSE基础】Java 语言概述](https://xingji.fun/posts/18950/)
 <!-- BLOG-POST-LIST:END -->
 
+![CSDN统计](https://stats.justsong.cn/api/csdn?id=AcsdnHZB?spm=1011.2648.3001.5343&theme=dark&lang=zh-CN)                                     ![牛客统计](https://stats.justsong.cn/api/nowcoder?id=738628539&theme=dark&lang=zh-CN) 
+
+![LeetCode 中文站统计](https://stats.justsong.cn/api/leetcode?username=hzb&theme=dark&lang=zh-CN)                                         ![掘金统计](https://stats.justsong.cn/api/juejin?id=4268773493456432&theme=dark&lang=zh-CN) 
+
 ![GitHub账户信息统计](https://github-readme-stats.vercel.app/api?username=XingJi-love&show_icons=true&theme=tokyonight)                         ![GitHub 连续打卡](https://streak-stats.demolab.com/?user=XingJi-love)
 
 ![GitHub账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=XingJi-love&theme=tokyonight)                            ![修仙系列统计卡片](https://github-immortality.vercel.app/api?username=XingJi-love)
 
-![GitHub 资料奖杯](https://github-profile-trophy.vercel.app/?username=XingJi-love&theme=algolia)
+![GitHub资料奖杯](https://github-profile-trophy.vercel.app/?username=XingJi-love&theme=algolia)
 
 
 
