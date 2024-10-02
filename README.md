@@ -1,13 +1,14 @@
 [<img src="./static/hello.png">](https://home.xingji.fun/)
 
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="./static/image.gif" width="30px" alt=""><br>
-
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XingJi-love/XingJi-love//output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XingJi-love/XingJi-love/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XingJi-love/XingJi-love/output/github-contribution-grid-snake.svg">
 </picture>
 
+![ 统计访问次数](https://profile-counter.glitch.me/XingJi-love/count.svg)
 
 ## 📲 网站运营
 
@@ -25,19 +26,19 @@
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [数据结构-绪论](https://xingji.fun/posts/20240907/)
-- [【JavaSE基础】Java概述-章节作业](https://xingji.fun/posts/18951/)
-- [【JavaSE基础】Java 基础知识](https://xingji.fun/posts/64063/)
+- [【JavaSE基础】Java概述-章节作业](https://xingji.fun/posts/18951/)                           
+- [【JavaSE基础】Java 基础知识](https://xingji.fun/posts/64063/)                                         
 - [【JavaSE基础】Java 快速入门](https://xingji.fun/posts/9023/)
 - [【JavaSE基础】Java 语言概述](https://xingji.fun/posts/18950/)
 <!-- BLOG-POST-LIST:END -->
 
-![GitHub 活动统计图](https://github-readme-activity-graph.vercel.app/graph?username=XingJi-love&theme=react-dark)
+![github统计](https://stats.justsong.cn/api/github?username=XingJi-love&theme=dark&lang=zh-CN)
 
 ![GitHub账户信息统计](https://github-readme-stats.vercel.app/api?username=XingJi-love&show_icons=true&theme=tokyonight)                         ![GitHub 连续打卡](https://streak-stats.demolab.com/?user=XingJi-love)
 
 ![GitHub账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=XingJi-love&theme=tokyonight)                            ![修仙系列统计卡片](https://github-immortality.vercel.app/api?username=XingJi-love)
 
-![GitHub 资料奖杯](https://github-profile-trophy.vercel.app/?username=XingJi-love)
+![GitHub 资料奖杯](https://github-profile-trophy.vercel.app/?username=XingJi-love&theme=algolia)
 
 
 
