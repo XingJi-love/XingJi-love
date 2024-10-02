@@ -24,6 +24,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [数据结构-绪论](https://xingji.fun/posts/20240907/)
+- [【JavaSE基础】Java概述-章节作业](https://xingji.fun/posts/18951/)
+- [【JavaSE基础】Java 基础知识](https://xingji.fun/posts/64063/)
+- [【JavaSE基础】Java 快速入门](https://xingji.fun/posts/9023/)
+- [【JavaSE基础】Java 语言概述](https://xingji.fun/posts/18950/)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub 活动统计图](https://github-readme-activity-graph.vercel.app/graph?username=XingJi-love&theme=react-dark)
