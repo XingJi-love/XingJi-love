@@ -1,4 +1,4 @@
-[<img src="./static/hello.png">](https://www.liushen.fun)
+[<img src="./static/hello.png">](https://home.xingji.fun/)
 
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="./static/image.gif" width="30px" alt=""><br>
 
