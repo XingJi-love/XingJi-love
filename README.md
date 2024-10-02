@@ -10,6 +10,8 @@
 
 ![ 统计访问次数](https://profile-counter.glitch.me/XingJi-love/count.svg)
 
+[<img src="./static/icons.png" alt="点击进入个人站点">](https://home.xingji.fun)
+
 ## 📲 网站运营
 
 | Icon         | Name             | Link                                               |
@@ -35,6 +37,8 @@
 ![CSDN统计](https://stats.justsong.cn/api/csdn?id=AcsdnHZB?spm=1011.2648.3001.5343&theme=dark&lang=zh-CN)                                     ![牛客统计](https://stats.justsong.cn/api/nowcoder?id=738628539&theme=dark&lang=zh-CN) 
 
 ![LeetCode 中文站统计](https://stats.justsong.cn/api/leetcode?username=hzb&theme=dark&lang=zh-CN)                                         ![掘金统计](https://stats.justsong.cn/api/juejin?id=4268773493456432&theme=dark&lang=zh-CN) 
+
+
 
 ![GitHub账户信息统计](https://github-readme-stats.vercel.app/api?username=XingJi-love&show_icons=true&theme=tokyonight)                         ![GitHub 连续打卡](https://streak-stats.demolab.com/?user=XingJi-love)
 
