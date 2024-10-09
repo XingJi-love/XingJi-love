@@ -18,6 +18,7 @@
 |--------------|------------------|----------------------------------------------------|
 | 🏠 Home      | 个人主页         | [https://home.xingji.fun/](https://home.xingji.fun/)  |
 | 🪄 Blog      | 个人博客         | [https://love.xingji.fun/](https://love.xingji.fun/) |
+| 🪄 Blog      | 个人博客         | [https://vitepress.xingji.fun/](https://vitepress.xingji.fun/) |
 | 📊 Statistics| 访客统计         | [https://umami.xingji.fun/](https://umami.xingji.fun/) |
 | 🖼️ Image Bed | 自建图床         | [https://img.xingji.fun/](https://img.xingji.fun/) |                      
 | 🎨 Design    | 封面设计         | [https://minicover.xingji.fun/](https://minicover.xingji.fun/) |
