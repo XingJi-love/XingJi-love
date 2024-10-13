@@ -28,11 +28,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [【JavaSE基础】变量](https://xingji.fun/posts/10000/)
 - [数据结构-绪论](https://xingji.fun/posts/20240907/)
 - [【JavaSE基础】Java概述-章节作业](https://xingji.fun/posts/18951/)
 - [【JavaSE基础】Java 基础知识](https://xingji.fun/posts/64063/)
 - [【JavaSE基础】Java 快速入门](https://xingji.fun/posts/9023/)
-- [【JavaSE基础】Java 语言概述](https://xingji.fun/posts/18950/)
 <!-- BLOG-POST-LIST:END -->
 
 ![CSDN统计](https://stats.justsong.cn/api/csdn?id=AcsdnHZB?spm=1011.2648.3001.5343&theme=dark&lang=zh-CN)                                     ![牛客统计](https://stats.justsong.cn/api/nowcoder?id=738628539&theme=dark&lang=zh-CN) 
