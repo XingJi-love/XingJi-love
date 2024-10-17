@@ -45,6 +45,14 @@
 
 ![GitHub账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=XingJi-love&theme=tokyonight)                            ![修仙系列统计卡片](https://github-immortality.vercel.app/api?username=XingJi-love)
 
+## 🚀 我的github活动 
+---
+<p align="center">
+  <a href="https://love.xingji.fun">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=XingJi-love&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
+  </a>
+</p>
+
 ![GitHub资料奖杯](https://github-profile-trophy.vercel.app/?username=XingJi-love&theme=algolia)
 
 
