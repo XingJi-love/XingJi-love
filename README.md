@@ -43,7 +43,7 @@
 ---
 <p align="center">
   <a href="https://love.xingji.fun">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=XingJi-love&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=XingJi-love&theme=github-compact&custom_title=Activity&radius=30&height=300" alt="Activity">
   </a>
 </p>
 
