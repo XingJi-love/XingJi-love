@@ -28,11 +28,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [数据结构-线性表（顺序表）](https://xingji.fun/posts/20241024/)
 - [【JavaSE基础】变量](https://xingji.fun/posts/10000/)
 - [数据结构-绪论](https://xingji.fun/posts/20240907/)
 - [【JavaSE基础】Java概述-章节作业](https://xingji.fun/posts/18951/)
 - [【JavaSE基础】Java 基础知识](https://xingji.fun/posts/64063/)
-- [【JavaSE基础】Java 快速入门](https://xingji.fun/posts/9023/)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub账户信息统计](https://github-readme-stats.vercel.app/api?username=XingJi-love&show_icons=true&theme=tokyonight)                         ![GitHub 连续打卡](https://streak-stats.demolab.com/?user=XingJi-love)
