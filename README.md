@@ -1,5 +1,7 @@
 [<img src="./static/hello.png">](https://home.xingji.fun/)
 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I%20AM%20XINGJI&fontAlign=50&fontAlignY=50" /> </p>
+
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="./static/image.gif" width="30px" alt=""><br>
  
 <picture>
