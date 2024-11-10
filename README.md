@@ -14,6 +14,12 @@
 
 [<img src="./static/icons.png" alt="点击进入个人站点">](https://home.xingji.fun)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,c,java,js,css,kali,ubuntu,linux,idea,eclipse,vscode,visualstudio,webstorm,sublime,vercel,netlify" />
+  </a>
+</p>
+
 ## 📲 网站运营
 
 | Icon         | Name             | Link                                               |
