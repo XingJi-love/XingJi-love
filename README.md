@@ -14,7 +14,8 @@
 
 [<img src="./static/icons.png" alt="点击进入个人站点">](https://home.xingji.fun)
 
-![image](https://github.com/user-attachments/assets/2682f44d-f3fe-4327-8709-05b1a7eec539)
+<p align="center"><img align="center" width="280" src="./static/menu-logo.svg#gh-dark-mode-only"/></p>
+<p align="center"><img align="center" width="280" src="./static/menu-logo-light.svg#gh-light-mode-only"/></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
