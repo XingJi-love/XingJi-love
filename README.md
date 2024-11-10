@@ -14,6 +14,8 @@
 
 [<img src="./static/icons.png" alt="点击进入个人站点">](https://home.xingji.fun)
 
+![image](https://github.com/user-attachments/assets/2682f44d-f3fe-4327-8709-05b1a7eec539)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,c,java,js,css,kali,ubuntu,linux,idea,eclipse,vscode,visualstudio,webstorm,sublime,vercel,netlify" />
