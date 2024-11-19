@@ -37,9 +37,11 @@
 |--------------|------------------|----------------------------------------------------|
 | 🏠 Home      | 个人主页         | [https://home.xingji.fun/](https://home.xingji.fun/)  |
 | 🪄 Blog      | 个人博客         | [https://love.xingji.fun/](https://love.xingji.fun/) |
+| 🪄 Blog      | 个人博客         | [https://blog.xingji.fun/](https://blog.xingji.fun/) |
 | 🪄 Blog      | 个人博客         | [https://vitepress.xingji.fun/](https://vitepress.xingji.fun/) |
 | 📊 Statistics| 访客统计         | [https://umami.xingji.fun/](https://umami.xingji.fun/) |
-| 🖼️ Image Bed | 自建图床         | [https://img.xingji.fun/](https://img.xingji.fun/) |                      
+| 🖼️ Image Bed | 自建图床         | [https://pix.xingjilove.us.kg/](https://pix.xingjilove.us.kg/) |  
+| 🖼️ Image Bed | 自建图床         | [https://img.xingjilove.us.kg/](https://img.xingjilove.us.kg/) |  
 | 🎨 Design    | 封面设计         | [https://minicover.xingji.fun/](https://minicover.xingji.fun/) |
 | 🖥️ Detection | 站点检测         | [https://site-status.xingji.fun/](https://site-status.xingji.fun/) |
 | 🤖 GPT       | 自建GPT          | [https://chat.xingji.fun/](https://chat.xingji.fun/) |
