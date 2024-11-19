@@ -2,6 +2,10 @@
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I%20AM%20XINGJI&fontAlign=50&fontAlignY=50" /> </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+XINGJI+obsessed+with+programming!" />
+</p>
+
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="./static/image.gif" width="30px" alt=""><br>
  
 <picture>
