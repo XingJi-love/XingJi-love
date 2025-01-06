@@ -1,6 +1,8 @@
 [<img src="./static/hello.png">](https://home.xingji.fun/)
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I%20AM%20XINGJI&fontAlign=50&fontAlignY=50" /> </p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20AM%20XINGJI%20%F0%9F%91%8B&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<div align="center">
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+XINGJI+obsessed+with+programming!" />
@@ -77,3 +79,7 @@
 ![GitHub资料奖杯](https://github-profile-trophy.vercel.app/?username=XingJi-love&theme=algolia)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</div>
