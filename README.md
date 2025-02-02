@@ -44,7 +44,8 @@
 | 🏠 Home      | 个人主页         | [https://home.xingji.fun/](https://home.xingji.fun/)  |
 | 🪄 Blog      | 个人博客         | [https://love.xingji.fun/](https://love.xingji.fun/) |
 | 🪄 Blog      | 个人博客         | [https://blog.xingji.fun/](https://blog.xingji.fun/) |
-| 🪄 Blog      | 个人博客         | [https://vitepress.xingji.fun/](https://vitepress.xingji.fun/) |
+| 🪄 Blog      | 个人博客         | [https://vite.xingji.fun/](https://vite.xingji.fun/) |
+| 🪄 Blog      | 个人博客         | [https://vue.xingji.fun/](https://vue.xingji.fun/) |
 | 📊 Statistics| 访客统计         | [https://umami.xingji.fun/](https://umami.xingji.fun/) |
 | 🖼️ Image Bed | 自建图床         | [https://pix.xingjilove.us.kg/](https://pix.xingjilove.us.kg/) |  
 | 🖼️ Image Bed | 自建图床         | [https://img.xingjilove.us.kg/](https://img.xingjilove.us.kg/) |  
