@@ -16,8 +16,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XingJi-love/XingJi-love/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img align="center" src="https://count.getloli.com/get/@:XingJi-love?theme=rule34">
-
 ![ 统计访问次数](https://profile-counter.glitch.me/XingJi-love/count.svg)
 
 [<img src="./static/icons.png" alt="点击进入个人站点">](https://home.xingji.fun)
