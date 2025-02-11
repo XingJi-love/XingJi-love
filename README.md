@@ -70,15 +70,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XingJi-love)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 147 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,45 +82,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-🌆 Daytime                197 commits         ████████████░░░░░░░░░░░░░   48.05 % 
-🌃 Evening                134 commits         ████████░░░░░░░░░░░░░░░░░   32.68 % 
-🌙 Night                  48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Tuesday                  70 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Wednesday                74 commits          █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Thursday                 91 commits          ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Friday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Saturday                 40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Sunday                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -142,7 +99,7 @@ Markdown                 1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XingJi-love/XingJi-love/main/assets/bar_graph.png)
 
 
- Last Updated on 11/02/2025 04:55:01 UTC
+ Last Updated on 11/02/2025 18:43:29 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 我的github活动 
