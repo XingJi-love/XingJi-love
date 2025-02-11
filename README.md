@@ -67,6 +67,11 @@
 
 ![GitHub账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=XingJi-love&theme=tokyonight)                            ![修仙系列统计卡片](https://github-immortality.vercel.app/api?username=XingJi-love)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XingJi-love)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🚀 我的github活动 
 ---
 <p align="center">
