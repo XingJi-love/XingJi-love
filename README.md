@@ -70,15 +70,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XingJi-love)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2028%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 153 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,49 +82,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-🌆 Daytime                197 commits         ████████████░░░░░░░░░░░░░   47.36 % 
-🌃 Evening                139 commits         ████████░░░░░░░░░░░░░░░░░   33.41 % 
-🌙 Night                  49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Tuesday                  72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Wednesday                76 commits          █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Thursday                 91 commits          █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Friday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Saturday                 40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Sunday                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-CSS                      1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   30.97 % 
-Markdown                 1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   30.02 % 
-TypeScript               48 mins             ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-Vue.js                   32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 28 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Blog-vitepress-theme     3 hrs 28 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  3 hrs 28 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -146,7 +99,7 @@ Markdown                 1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XingJi-love/XingJi-love/main/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2025 18:43:25 UTC
+ Last Updated on 15/02/2025 18:40:06 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 我的github活动 
