@@ -70,15 +70,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XingJi-love)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 155 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,20 +111,20 @@ Sunday                   38 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   31.73 % 
-Markdown                 1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-CSS                      1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-TypeScript               1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Vue.js                   3 hrs 28 mins       ███████████░░░░░░░░░░░░░░   43.25 % 
+Markdown                 1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+TypeScript               1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+CSS                      1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  8 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Blog-vitepress-theme     5 hrs 4 mins        █████████████████████████   100.00 % 
+Blog-vitepress-theme     8 hrs 2 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -146,7 +144,7 @@ Markdown                 1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XingJi-love/XingJi-love/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2025 18:43:08 UTC
+ Last Updated on 18/02/2025 18:44:33 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 我的github活动 
