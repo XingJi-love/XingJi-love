@@ -56,11 +56,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [数据结构-线性表（顺序表）](https://xingji.fun/posts/20241024/)
-- [【JavaSE基础】变量](https://xingji.fun/posts/10000/)
-- [数据结构-绪论](https://xingji.fun/posts/20240907/)
-- [【JavaSE基础】Java概述-章节作业](https://xingji.fun/posts/18951/)
-- [【JavaSE基础】Java 基础知识](https://xingji.fun/posts/64063/)
+- [MySQL | DQL语句-条件查询](https://vite.xingji.fun/Notes/MySQL/DQL语句-条件查询.html)
+- [Git | 学习笔记（待更新）](https://vite.xingji.fun/Notes/Git/Git-学习笔记.html)
+- [软考中级 | 软件设计师](https://vite.xingji.fun/Exam/SDE/软考中级-软件设计师.html)
+- [Git | 相关命令](https://vite.xingji.fun/Notes/Git/Git-相关命令.html)
+- [Git | 使用及上传代码到仓库](https://vite.xingji.fun/Notes/Git/Git使用及上传代码到仓库.html)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub账户信息统计](https://github-readme-stats.vercel.app/api?username=XingJi-love&show_icons=true&theme=tokyonight)                         ![GitHub 连续打卡](https://streak-stats.demolab.com/?user=XingJi-love)
