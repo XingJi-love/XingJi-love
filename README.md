@@ -56,11 +56,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [MySQL | DQL语句-分组函数-查询](https://vite.xingji.fun/Notes/MySQL/DQL语句-分组函数-查询.html)
 - [MySQL | DQL语句-数据处理函数](https://vite.xingji.fun/Notes/MySQL/DQL语句-数据处理函数.html)
 - [第三章：学习建议](https://vite.xingji.fun/CS/学习建议.html)
 - [第二章：软件行业中的各种职业方向](https://vite.xingji.fun/CS/软件行业中的各种职业方向.html)
 - [第一章：软件设计架构](https://vite.xingji.fun/CS/软件设计架构.html)
-- [软考中级 | 软件设计师](https://vite.xingji.fun/Exam/SDE/软考中级-软件设计师.html)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub账户信息统计](https://github-readme-stats.vercel.app/api?username=XingJi-love&show_icons=true&theme=tokyonight)                         ![GitHub 连续打卡](https://streak-stats.demolab.com/?user=XingJi-love)
