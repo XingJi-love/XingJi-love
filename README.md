@@ -47,8 +47,6 @@
 | 🪄 Blog      | 个人博客         | [https://vite.xingji.fun/](https://vite.xingji.fun/) |
 | 🪄 Blog      | 个人博客         | [https://vue.xingji.fun/](https://vue.xingji.fun/) |
 | 📊 Statistics| 访客统计         | [https://umami.xingji.fun/](https://umami.xingji.fun/) |
-| 🖼️ Image Bed | 自建图床         | [https://pix.xingjilove.us.kg/](https://pix.xingjilove.us.kg/) |  
-| 🖼️ Image Bed | 自建图床         | [https://img.xingjilove.us.kg/](https://img.xingjilove.us.kg/) |  
 | 🎨 Design    | 封面设计         | [https://cover.xingji.fun/](https://cover.xingji.fun/) |
 | 🖥️ Detection | 站点检测         | [https://status.xingji.fun/](https://status.xingji.fun/) |
 | 🤖 GPT       | 自建GPT          | [https://chat.xingji.fun/](https://chat.xingji.fun/) |
