@@ -61,6 +61,11 @@
 - [第二章：软件行业中的各种职业方向](https://vite.xingji.fun/CS/软件行业中的各种职业方向.html)
 <!-- BLOG-POST-LIST:END -->
 
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=XingJi-love&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XingJi-love&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+
 ![GitHub账户信息统计](https://github-readme-stats.vercel.app/api?username=XingJi-love&show_icons=true&theme=tokyonight)                         ![GitHub 连续打卡](https://streak-stats.demolab.com/?user=XingJi-love)
 
 ![GitHub账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=XingJi-love&theme=tokyonight)                            ![修仙系列统计卡片](https://github-immortality.vercel.app/api?username=XingJi-love)
