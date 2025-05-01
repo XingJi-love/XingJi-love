@@ -54,8 +54,8 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [MySQL | DQL语句-子查询](https://vite.xingji.fun/Notes/MySQL/DQL语句-子查询.html)
 - [MySQL | DQL语句-连接查询](https://vite.xingji.fun/Notes/MySQL/DQL语句-连接查询.html)
-- [# MySQL | DQL语句-子查询](https://vite.xingji.fun/Notes/MySQL/DQL语句-子查询.html)
 - [Git | 相关命令](https://vite.xingji.fun/Notes/Git/Git-相关命令.html)
 - [Git | 使用及上传代码到仓库](https://vite.xingji.fun/Notes/Git/Git使用及上传代码到仓库.html)
 - [MySQL | DQL语句-distinct去重](https://vite.xingji.fun/Notes/MySQL/DQL语句-distinct去重.html)
