@@ -56,9 +56,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [MySQL | DQL语句-子查询](https://vite.xingji.fun/Notes/MySQL/DQL语句-子查询.html)
 - [MySQL | DQL语句-连接查询](https://vite.xingji.fun/Notes/MySQL/DQL语句-连接查询.html)
-- [Git | 相关命令](https://vite.xingji.fun/Notes/Git/Git-相关命令.html)
-- [Git | 使用及上传代码到仓库](https://vite.xingji.fun/Notes/Git/Git使用及上传代码到仓库.html)
-- [MySQL | DQL语句-distinct去重](https://vite.xingji.fun/Notes/MySQL/DQL语句-distinct去重.html)
+- [第三章：学习建议](https://vite.xingji.fun/CS/学习建议.html)
+- [第二章：软件行业中的各种职业方向](https://vite.xingji.fun/CS/软件行业中的各种职业方向.html)
+- [第一章：软件设计架构](https://vite.xingji.fun/CS/软件设计架构.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
