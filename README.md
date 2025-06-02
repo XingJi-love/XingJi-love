@@ -54,11 +54,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [MySQL | 事务](https://vite.xingji.fun/Notes/MySQL/事务.html)
-- [MySQL | 数据库设计三范式](https://vite.xingji.fun/Notes/MySQL/数据库设计三范式.html)
-- [MySQL | 视图](https://vite.xingji.fun/Notes/MySQL/视图.html)
-- [MySQL | 表相关操作](https://vite.xingji.fun/Notes/MySQL/表相关操作.html)
-- [MySQL | DQL语句-子查询](https://vite.xingji.fun/Notes/MySQL/DQL语句-子查询.html)
+- [MySQL | DQL语句-distinct去重](https://vite.xingji.fun/JSZ/MySQL/DQL语句-distinct去重.html)
+- [MySQL | DQL语句-分组函数-查询](https://vite.xingji.fun/JSZ/MySQL/DQL语句-分组函数-查询.html)
+- [MySQL | DQL语句-子查询](https://vite.xingji.fun/JSZ/MySQL/DQL语句-子查询.html)
+- [MySQL | DQL语句-排序操作](https://vite.xingji.fun/JSZ/MySQL/DQL语句-排序操作.html)
+- [MySQL | DQL语句-数据处理函数](https://vite.xingji.fun/JSZ/MySQL/DQL语句-数据处理函数.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
