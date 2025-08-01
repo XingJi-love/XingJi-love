@@ -16,8 +16,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XingJi-love/XingJi-love/output/github-contribution-grid-snake.svg">
 </picture>
 
-![ 统计访问次数](https://profile-counter.glitch.me/XingJi-love/count.svg)
-
 [<img src="./static/icons.png" alt="点击进入个人站点">](https://home.xingji.fun)
 
 <p align="center"><img align="center" width="280" src="./static/menu-logo.svg#gh-dark-mode-only"/></p>
@@ -61,10 +59,8 @@
 - [MySQL | DQL语句-子查询](https://vite.xingji.fun/JSZ/MySQL/DQL语句-子查询.html)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=XingJi-love&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XingJi-love&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-</p>
+| <img src="https://github-readme-stats.vercel.app/api?username=XingJi-love&show_icons=true&theme=transparent&count_private=true&hide_border=True" alt="oh-yey's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XingJi-love&layout=compact&theme=transparent&hide_border=true" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 <!--START_SECTION:waka-->
 
