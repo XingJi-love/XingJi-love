@@ -9,6 +9,8 @@
 </p>
 
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="./static/image.gif" width="30px" alt=""><br>
+
+<p align="center"><img width="450px" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"></p>
  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XingJi-love/XingJi-love//output/github-contribution-grid-snake-dark.svg">
@@ -26,14 +28,6 @@
     <img src="https://skillicons.dev/icons?i=github,git,c,java,mysql,docker,nodejs,vite,vue,nginx,npm,pnpm,ts,js,css,kali,ubuntu,linux,idea,eclipse,vscode,visualstudio,webstorm,sublime,vercel,netlify,cloudflare" />
   </a>
 </p>
-
-## 📋 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=c,go,rust,python,arduino,lua,nodejs,php,react,next,vue,nuxt,angular,express,tailwindcss,redux,bootstrap,html,css,js,jquery,ts,less,scss,fastapi,django,flask,pytorch,tensorflow,opencv,qt,electron,tauri,threejs)](https://skillicons.dev)
-
-## 🔨 Tools
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis,postgresql,rabbitmq,docker,kubernetes,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,cmake,anaconda,github,grafana,githubactions,jenkins,figma,aws,azure,gcp,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
 
 ## 📲 网站运营
 
