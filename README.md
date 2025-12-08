@@ -53,8 +53,10 @@
 - [MySQL | DQL语句-子查询](https://vite.xingji.fun/JSZ/MySQL/DQL语句-子查询.html)
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 | <img src="https://github-readme-stats.vercel.app/api?username=XingJi-love&show_icons=true&theme=transparent&count_private=true&hide_border=True" alt="oh-yey's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XingJi-love&layout=compact&theme=transparent&hide_border=true" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | 
+-->
 
 <!--START_SECTION:waka-->
 
@@ -76,7 +78,7 @@ Java properties   0 hrs 19 mins   ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   </a>
 </p>
 
-![GitHub资料奖杯](https://github-profile-trophy.vercel.app/?username=XingJi-love&theme=algolia)
+<!--![GitHub资料奖杯](https://github-profile-trophy.vercel.app/?username=XingJi-love&theme=algolia)-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
