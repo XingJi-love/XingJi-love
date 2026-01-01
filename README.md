@@ -61,8 +61,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java   1 hrs 1 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨   98.26 %
-SQL    0 hrs 1 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
