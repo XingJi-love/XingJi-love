@@ -44,28 +44,6 @@
 | 🤖 GPT       | 自建GPT          | [https://chat.xingji.fun/](https://chat.xingji.fun/) |
 | ☁️ Tencent   | 腾讯开发者       | [https://cloud.tencent.com/](https://cloud.tencent.com/) |
 
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [MySQL | DBA命令](https://vite.xingji.fun/JSZ/MySQL/DBA命令.html)
-- [MySQL | 事务](https://vite.xingji.fun/JSZ/MySQL/事务.html)
-- [MySQL | DQL语句-distinct去重](https://vite.xingji.fun/JSZ/MySQL/DQL语句-distinct去重.html)
-- [MySQL | DQL语句-分组函数-查询](https://vite.xingji.fun/JSZ/MySQL/DQL语句-分组函数-查询.html)
-- [MySQL | DQL语句-子查询](https://vite.xingji.fun/JSZ/MySQL/DQL语句-子查询.html)
-<!-- BLOG-POST-LIST:END -->
-
-<!--
-| <img src="https://github-readme-stats.vercel.app/api?username=XingJi-love&show_icons=true&theme=transparent&count_private=true&hide_border=True" alt="oh-yey's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XingJi-love&layout=compact&theme=transparent&hide_border=true" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | 
--->
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ## 🚀 我的github活动 
 ---
 <p align="center">
