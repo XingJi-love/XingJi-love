@@ -33,11 +33,6 @@
 
 | Icon         | Name             | Link                                               |
 |--------------|------------------|----------------------------------------------------|
-| 🏠 Home      | 个人主页         | [https://home.xingji.fun/](https://home.xingji.fun/)  |
-| 🪄 Blog      | 个人博客         | [https://love.xingji.fun/](https://love.xingji.fun/) |
-| 🪄 Blog      | 个人博客         | [https://blog.xingji.fun/](https://blog.xingji.fun/) |
-| 🪄 Blog      | 个人博客         | [https://vite.xingji.fun/](https://vite.xingji.fun/) |
-| 🪄 Blog      | 个人博客         | [https://vue.xingji.fun/](https://vue.xingji.fun/) |
 | 📊 Statistics| 访客统计         | [https://umami.xingji.fun/](https://umami.xingji.fun/) |
 | 🎨 Design    | 封面设计         | [https://cover.xingji.fun/](https://cover.xingji.fun/) |
 | 🖥️ Detection | 站点检测         | [https://status.xingji.fun/](https://status.xingji.fun/) |
