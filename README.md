@@ -1,4 +1,4 @@
-[<img src="./static/hello.png">](https://home.xingji.fun/)
+[<img src="./static/hello.png">]()
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20AM%20XINGJI%20%F0%9F%91%8B&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
@@ -18,7 +18,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XingJi-love/XingJi-love/output/github-contribution-grid-snake.svg">
 </picture>
 
-[<img src="./static/icons.png" alt="点击进入个人站点">](https://home.xingji.fun)
+[<img src="./static/icons.png" alt="点击进入个人站点">]()
 
 <p align="center"><img align="center" width="280" src="./static/menu-logo.svg#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./static/menu-logo-light.svg#gh-light-mode-only"/></p>
