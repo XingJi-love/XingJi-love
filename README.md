@@ -35,6 +35,7 @@
 |--------------|------------------|----------------------------------------------------|
 | 📊 Statistics| 访客统计         | [https://umami.xingji.fun/](https://umami.xingji.fun/) |
 
+<!--
 ## 🚀 我的github活动 
 ---
 <p align="center">
@@ -42,6 +43,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=XingJi-love&theme=github-compact&custom_title=Activity&radius=30&height=300" alt="Activity">
   </a>
 </p>
+-->
 
 <!--![GitHub资料奖杯](https://github-profile-trophy.vercel.app/?username=XingJi-love&theme=algolia)-->
 
